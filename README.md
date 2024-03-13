@@ -1,6 +1,4 @@
-![_Github background](https://github.com/LeksVel/LeksVel/assets/163309940/0aa2026f-c2f2-417c-95bc-d6eb756fc5f4)
-
-# Oleksii Mediantsev - Frontend Developer
+![_Github background (1)](https://github.com/LeksVel/LeksVel/assets/163309940/38b2e6b3-d0c7-4dab-a2a9-974641e007fd)
 
 ## About Me
 Passionate and dedicated Frontend Developer with over 4 years of experience, specializing in React.js and its ecosystem. I'm committed to delivering seamless user experiences and always eager to learn new technologies.
